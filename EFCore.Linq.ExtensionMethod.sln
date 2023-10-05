@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.Linq.ExtensionMethod", "EFCore.Linq.ExtensionMethod\EFCore.Linq.ExtensionMethod.csproj", "{B55ED88C-44D4-48AE-B1F2-723997F56BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B55ED88C-44D4-48AE-B1F2-723997F56BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B55ED88C-44D4-48AE-B1F2-723997F56BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B55ED88C-44D4-48AE-B1F2-723997F56BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B55ED88C-44D4-48AE-B1F2-723997F56BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4AFF4D1-11FD-47C2-B739-22825619FA29}
+	EndGlobalSection
+EndGlobal
